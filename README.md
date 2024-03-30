@@ -1,5 +1,5 @@
 Un cordial saludo , 
-Este archivo de excel include la una base de datos desde 2019 hasta inicios de 2024 de los precios de insumos agropecuarios en Colombia
+Este archivo de excel include una base de datos desde 2019 hasta inicios de 2024 de los precios de insumos agropecuarios en Colombia
 obtenidos de la pagina del dane https://www.dane.gov.co/index.php/estadisticas-por-tema/agropecuario/sistema-de-informacion-de-precios-sipsa,
 
 y ademas contiene una base de datos con los precios del combustible diesel en Colombia,
